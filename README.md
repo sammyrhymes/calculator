@@ -1,5 +1,3 @@
-Sure! Here's a short and concise README file for the calculator app:
-
 # Flask Calculator App
 
 This is a simple calculator web application built using Flask and Tailwind CSS.
